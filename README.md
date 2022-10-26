@@ -1,2 +1,2 @@
 # Home Page
-## Welcome, 
+## Hi, my Name is Bj Harris
