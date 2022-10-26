@@ -5,4 +5,4 @@ My website can be explored by the following links.
 * [Skills](./skills.md)
 * [Code Sample](./code_sample.md)
 * [Hobbies](./hobby.md)
-* [Academy Performance](./marks.md)
+* [Dream Job](./marks.md)
