@@ -2,7 +2,7 @@
 
 I _spend_ most of my time on these apps-
 
-* [Tiktok](https://www.tiktok.com))
+* [Tiktok](https://www.tiktok.com)
 * [Instagram](https://www.instagram.com)
 
 [return to home](./README.md)
