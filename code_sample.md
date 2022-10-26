@@ -24,15 +24,6 @@ display.innerHTML = displayHTML;
 </html>
 ```
 
-### code
 
-```c
-#include <stdio.h>
-int main() {
-// printf() displays the string inside quotation
-printf("Welcome to my page.");
-return 0;
-}
-```
 
 [return to home page](./README.md)
