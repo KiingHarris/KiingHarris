@@ -5,3 +5,4 @@
 1. Gamer
 1. Hard worker
 1. Consistent
+[Go back to home page](./README.md)
