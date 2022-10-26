@@ -14,3 +14,21 @@ for (i = 0; i < 100; i++) {
 displayHTML += "<p>" + i + "</p>";
 }
 display.innerHTML = displayHTML;
+}
+</script>
+</head>
+<body onload="fizzbuzz()">
+<div id="display">
+</div>
+</body>
+</html>
+```
+#include <stdio.h>
+int main() {
+// printf() displays the string inside quotation
+printf("Welcome to my page!");
+return 0;
+}
+```
+
+[return to home page](./README.md)
