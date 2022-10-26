@@ -23,10 +23,14 @@ display.innerHTML = displayHTML;
 </body>
 </html>
 ```
+
+### C code
+
+```c
 #include <stdio.h>
 int main() {
 // printf() displays the string inside quotation
-printf("Welcome to my page!");
+printf("Hello, World!");
 return 0;
 }
 ```
