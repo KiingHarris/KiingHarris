@@ -1,6 +1,6 @@
 # Dream Job
 
-## Dream Jobs-
+## Dream Job-
 
 
 1. Youtuber
