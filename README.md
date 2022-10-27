@@ -1,8 +1,8 @@
 # Home Page
-## Hi, my Name is Bj Harris
-I attend the University of Missouri, im a sophmore and i play football.
+## Welcome, my name is Bj Harris
+I attend the University of Missouri, i'm a sophomore and I play football here.
 My website can be explored by the following links.
-* [Skills](./skills.md)
-* [Code Sample](./code_sample.md)
+* [Background](./Background.md)
+* [ Sample](./Sample.md)
 * [Hobbies](./hobby.md)
-* [Dream Job](./marks.md)
+* [Dream Job](./Dream Job.md)
