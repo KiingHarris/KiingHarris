@@ -6,10 +6,11 @@ I _spend_ most of my time on these apps, oustdie of social media, I play sports 
 
 * [Tiktok](https://www.tiktok.com)
 * [Instagram](https://www.instagram.com)
-
+* [Watch Coryxkenshin](https://www.youtube.com/c/CoryxKenshin)
 
 
 ![](Images/Instagram.jpeg)
 ![](Images/tiktok.png)
-![](Images/
+![](Images/coryxkenshin.jpeg)
+
 [return to home](./README.md)
