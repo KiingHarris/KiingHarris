@@ -5,4 +5,4 @@ My website can be explored by the following links.
 * [Background](./Background.md)
 * [ Sample](./Sample.md)
 * [Hobbies](./hobby.md)
-* [Dream Job](./Dream Job.md)
+* [Dream Job](./DreamJob.md)
